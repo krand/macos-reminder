@@ -7,5 +7,5 @@
 4. Check notification settings 
 
 ## Usage
-$remindme <msg> <minutes>
-$remindme <msg> <hours>h
+```$remindme <msg> <minutes>```
+```$remindme <msg> <hours>h```
